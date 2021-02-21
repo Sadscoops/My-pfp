@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.carousel-control-prev-icon {
+  color: yellow;
+}
+
+.carousel-control-next-icon {
+  color: yellow;
+}
+
+.Iwantbgblack {
+  background-color: #d8d8d8;
+}
+.bgblack {
+  background-color: #d8d8d8;
+}
